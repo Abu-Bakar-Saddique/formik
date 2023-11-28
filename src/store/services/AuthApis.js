@@ -5,6 +5,7 @@ const login = credentials => {
     return SWAGGER_URL.post("auth/login", credentials); 
 };
 
+
 const authEndPoints = {
     login,
 }
