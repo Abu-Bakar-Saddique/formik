@@ -9,5 +9,4 @@ const authEndPoints = {
     login,
 }
 
-
 export default authEndPoints;
